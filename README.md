@@ -1,8 +1,10 @@
 <h1 align="center">🐉 eldenring242 </h1>
+
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/77/20/05/772005e8384ab5abb7494c907d140f28.gif" />
+  <img src="https://i.pinimg.com/originals/77/20/05/772005e8384ab5abb7494c907d140f28.gif" height="200"/>
+  <img width="800">
 </div>
 
 ###
