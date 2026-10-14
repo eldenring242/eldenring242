@@ -12,7 +12,7 @@ Hi! My name in Nikita! I'm junior developer
 
 ###
 
-<img src="https://media.discordapp.net/attachments/1134092455898263583/1559900524927778816/a39d094d730079cec4f91224ca59937f_1.png?ex=6ad0c212&is=6acf7092&hm=031c88b09109fa071b9b13733a85f98e61a33588101bd0ac29d05e3c3c8b4ef1&=&format=webp&quality=lossless&width=1024&height=1006"/>
+<img src="https://media.discordapp.net/attachments/1134092455898263583/1559901248860463114/a39d094d730079cec4f91224ca59937f_1.png?ex=6ad0c2bf&is=6acf713f&hm=7d664a00577e3422696bcdb86009d423dc8f652a47b0c3106bb6f7d15d262a07&=&format=webp&quality=lossless&width=1024&height=1006"/>
 
 ###
 
