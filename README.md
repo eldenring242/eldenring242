@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/77/20/05/772005e8384ab5abb7494c907d140f28.gif" height="3200"/>
-  <img width="12800">
+  <img src="https://i.pinimg.com/originals/77/20/05/772005e8384ab5abb7494c907d140f28.gif" height="1600"/>
+  <img width="6400">
 </div>
 
 ###
