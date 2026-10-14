@@ -12,6 +12,10 @@ Hi! My name in Nikita! I'm junior developer
 
 ###
 
+<img src="https://media.discordapp.net/attachments/1134092455898263583/1559900524927778816/a39d094d730079cec4f91224ca59937f_1.png?ex=6ad0c212&is=6acf7092&hm=031c88b09109fa071b9b13733a85f98e61a33588101bd0ac29d05e3c3c8b4ef1&=&format=webp&quality=lossless&width=1024&height=1006"/>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
