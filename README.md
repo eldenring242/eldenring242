@@ -7,6 +7,8 @@ Hi! My name in Nikita! I'm junior developer
 <div align="center">
   <img src="https://i.pinimg.com/originals/77/20/05/772005e8384ab5abb7494c907d140f28.gif" />
   <img width=100% />
+  <img src="https://i.pinimg.com/originals/ed/e8/39/ede839e3e6bbbc55ee899b9cca310a9b.gif" />
+  <img width=100%/>
 </div>
 
 ###
