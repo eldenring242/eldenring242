@@ -1,5 +1,7 @@
 <h1 align="center">🐉 eldenring242 </h1>
 
+Hi! My name in Nikita! I'm junior developer
+
 ###
 
 <div align="center">
